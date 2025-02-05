@@ -46,7 +46,7 @@ Ensure you have **Node.js** and **npm** installed on your machine.
 ### **📥 Installation**
 #### Clone the repository:
 ```sh
-git clone https://github.com/03abhishekit/quiz-app.git
+git clone  https://github.com/03abhishekit/React-Quiz-App.git
 ```
 #### Navigate to the project directory:
 ```sh
